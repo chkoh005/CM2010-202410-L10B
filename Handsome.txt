@@ -1,2 +1,6 @@
 This file is created in main branch, on 13/2/25, at 10:37am.
+<<<<<<< HEAD
 Handsome is the master in main branch, on 13/2/25, at 10:59am.
+=======
+Gorgeous likes Handsome in gorgeous branch, on 13/2/25, at 10:54am.
+>>>>>>> gorgeous
